@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body{
+    background:url(../images/fon.jpg);
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size:cover ;
+
+}
+.ksusha{
+color: #FFF;
+font-family: Montserrat;
+font-size: 100px;
+font-style: normal;
+font-weight: 600;
+position: absolute; 
+right: 30%;
+top: 50%;
+}
+.heart{
+    height: 60px;
+    width: 60px;
+}
